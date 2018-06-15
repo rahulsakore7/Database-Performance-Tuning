@@ -1,4 +1,4 @@
-In course, we have Implemented DBA key responsibilities: 
+In this course, we have Implemented DBA key responsibilities: 
 Such as Database developement life cycle using Oracle 12c, Security(User access and Integrity), Data Storage.
 Investigated Oracle Database Architecture includes Software developement components, Oracle Instance, Control, redo log, Archived files and physical and logical view.
 Exploited Oracle SQL*Net utility to connect AWS server using different methods like EZConnect and naming methodology.
